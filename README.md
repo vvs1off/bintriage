@@ -55,7 +55,7 @@ pip install bintriage        # once published to PyPI
 pip install .
 ```
 
-Requires Python 3.9+. No third-party runtime dependencies.
+Requires Python 3.10+. No third-party runtime dependencies.
 
 ## Usage
 

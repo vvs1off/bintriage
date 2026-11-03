@@ -7,7 +7,7 @@ name = "bintriage"
 version = "0.1.0"
 description = "Fast first-look triage for PE, ELF and Mach-O binaries."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "vvs1off" }]
 keywords = ["reverse-engineering", "triage", "malware-analysis", "pe", "elf", "mach-o"]
